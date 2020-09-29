@@ -72,12 +72,11 @@
     <div class="col-12 grid-margin">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title">Hoạt Động Gần Đây</h4>
+                <h4 class="card-title">Giới thiệu về Công ty</h4>
                 <div class="table-responsive">
-                    <table class="table table-hover">
+                    <!-- <table class="table table-hover">
                         <thead>
                             <tr>
-
                                 <th>Tài Khoản</th>
                                 <th>Số Tiền</th>
                             </tr>
@@ -124,22 +123,9 @@
                                 <td><label class="badge badge-danger">80,000 VNĐ</label></td>
                             </tr>
                         </tbody>
-                    </table>
+                    </table> -->
                 </div>
             </div>
-            <ul class="pagination separated pagination-danger">
-                <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                <li class="page-item"><a class="page-link" href="https://KiemTien.Pw/?page=2">2</a>
-                </li>
-                <li class="page-item"><a class="page-link" href="https://KiemTien.Pw/?page=3">3</a>
-                </li>
-                <li class="page-item"><a class="page-link" href="https://KiemTien.Pw/?page=4">4</a>
-                </li>
-                <li class="page-item"><a class="page-link" href="https://KiemTien.Pw/?page=5">5</a>
-                </li>
-                <li class="page-item active"><span>…</span></li>
-                <li class="page-item"><a class="page-link" title="Cuối" href="https://KiemTien.Pw/?page=84">Cuối</a></li>
-            </ul>
         </div>
     </div>
 </div>
